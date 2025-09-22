@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.layout {
+  @apply max-w-[1240px] mx-auto px-8;
+}
+body {
+  background-color: black;
+}
